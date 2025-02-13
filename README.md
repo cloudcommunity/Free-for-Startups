@@ -6,7 +6,7 @@
 
 A **curated collection of free resources** for **startups and entrepreneurs**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help startups access **free software, cloud services, tools, and educational resources** to accelerate their growth.
 
-🌐 The list of free goodies for startups will soon be available as a website at [FreeForStartups.org](https://freeforstartups.org/), making it easier to explore and navigate online.
+🌐 The list of free goodies for startups will soon be available as a website at FreeForStartups.com, making it easier to explore and navigate online.
 
 ## ⭐ Why Star This Repo?
 
