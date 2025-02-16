@@ -8,6 +8,8 @@ A **curated collection of free resources** for **startups and entrepreneurs**. T
 
 🌐 The list of free goodies for startups is also available as a website at [FreeForStartups.com](https://freeforstartups.com/), making it easier to explore and navigate online.
 
+📰 Stay updated with the latest free resources for startups by subscribing to our **newsletter** at [freeforstartups.substack.com](https://freeforstartups.substack.com/).
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more startups discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
