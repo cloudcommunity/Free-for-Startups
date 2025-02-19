@@ -23,6 +23,8 @@ Starring this repository helps more startups discover these free resources. If y
 - [Netlify Grow](https://www.netlify.com/grow-with-netlify/)
 - [Google for Startups](https://inthecloud.withgoogle.com/startup/dl-cd.html)
 - [Cloudflare Startup Enterprise Plan](https://blog.cloudflare.com/the-cloudflare-startup-enterprise-plan-helping-new-startups-bootstrap/)
+- [CodeRabbit Startup Program](https://www.coderabbit.ai/startup-program)
+  - 50% off CodeRabbit Pro for 3 months for VC or accelerator-backed startups.
 
 ## 🤝 How to Contribute
 
