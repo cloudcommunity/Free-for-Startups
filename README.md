@@ -3,6 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/cloudcommunity/Free-for-Startups?style=social)](https://github.com/cloudcommunity/Free-for-Startups/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/cloudcommunity/Free-for-Startups/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Twitter Follow](https://img.shields.io/twitter/follow/free4startups?style=social)](https://twitter.com/free4startups)
 
 A **curated collection of free resources** for **startups and entrepreneurs**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help startups access **free software, cloud services, tools, and educational resources** to accelerate their growth.
 
